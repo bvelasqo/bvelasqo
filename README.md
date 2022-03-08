@@ -30,6 +30,7 @@ const aboutMe = {
 </br>
 <p><em>
 </p></em>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <h2>💻 Some stats 💻</h2>
 
 ![bvelasqo's github stats](https://github-readme-stats.vercel.app/api?username=bvelasqo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
