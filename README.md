@@ -36,7 +36,7 @@ const aboutMe = {
 
 ---
 <h3>other skills 👀</h3>
-  <img width="400" height="200" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+  <img width="400" height="190" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
    ° 😎 Ability to analyze and create layout diagrams databases</br></br>
    ° 🧠 Excellent at solving both technical and logical ☕</br></br>
    ° 📝 Good management and adaptability to SCRUM methodologies</br></br>
