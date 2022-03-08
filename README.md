@@ -36,11 +36,13 @@ const aboutMe = {
 };
 ```
 
-<h2>💻 Some stats 💻</h2>
-
-![bvelasqo's github stats](https://github-readme-stats.vercel.app/api?username=bvelasqo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=bvelasqo&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=bvelasqo&layout=compact&theme=react"" />
+</p>
+                                                                                                                       
 ---
-
 ⭐️ From [bvelasqo](https://github.com/bvelasqo)
 
