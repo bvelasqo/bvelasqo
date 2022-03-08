@@ -1,4 +1,4 @@
-<h1 align="center">Hi i'm Brandon Velásquez (develasquez) 👨‍💻 </h1>
+<h1 align="center">Hi👋 i'm Brandon Velásquez (develasquez) 👨‍💻 </h1>
 <p><em>Undergraduate student at the <a href="https://udemedellin.edu.co">Universidad de medellin</a> in the career of Systems Engineering. 😊
 I'm a software developer, with very good logic programming always wishing for learning, highly capable self-study and good communicative ability. </em></p>
 
