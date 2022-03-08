@@ -42,5 +42,5 @@ const aboutMe = {
 
 ---
 
-⭐️ From [bvelasqo](https://github.com/bvelasqo) inspired by [sudiptog81](https://github.com/sudiptog81) 
+⭐️ From [bvelasqo](https://github.com/bvelasqo)
 
