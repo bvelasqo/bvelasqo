@@ -34,6 +34,7 @@ const aboutMe = {
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brandon.velasquez.osorio@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:bvelasquez609@soyudemedellin.edu.co)
 
+---
 <h3>other skills 👀</h3>
   <img width="400" height="200" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
    ° 😎 Ability to analyze and create layout diagrams databases</br></br>
@@ -41,9 +42,8 @@ const aboutMe = {
    ° 📝 Good management and adaptability to SCRUM methodologies</br></br>
    ° 😏 Excellent adaptation to new knowledge</br></br>
   
-</details>
 
-
+---
 ### Quick Stats 🚀
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=bvelasqo&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
