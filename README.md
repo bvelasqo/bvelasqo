@@ -1,4 +1,4 @@
-# Sudipto Ghosh 👨‍💻
+# Brandon Velásquez (develasquez) 👨‍💻
 
 
 <p><em>Undergraduate student at the <a href="https://udemedellin.edu.co">Universidad de medellin</a> in the career of Systems Engineering. 😊</br>
