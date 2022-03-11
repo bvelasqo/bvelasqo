@@ -19,7 +19,7 @@ const aboutMe = {
          java: ["Spring"],
          js: [ "NestJS", "Express"],
          csharp: ["Asp.net Core"],
-         python: ["Django", "Flask]
+         python: ["Django", "Flask"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "Postgresql", "MySQL", "Sqlite"],
       mobile: ["Android", "Flutter"]
