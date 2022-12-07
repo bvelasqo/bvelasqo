@@ -13,7 +13,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Bootstrap", "Material Design", "Semantic UI", "Grid"]
+         css: ["Bootstrap", "Material Design", "Tailwind"]
       },
       backEnd: {
          java: ["Spring"],
@@ -21,10 +21,10 @@ const aboutMe = {
          csharp: ["Asp.net Core"],
          python: ["Django", "Flask"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", "Postgresql", "MySQL", "Sqlite"],
+      databases: ["MongoDB", "mySQL", "SQLServer", "Postgresql", "MySQL", "Sqlite", "DynamoDB"],
       mobile: ["Android", "Flutter"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["last year student"],
    challenge: "I'm working to be a fullstack developer",
 };
 ```
